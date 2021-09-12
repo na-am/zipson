@@ -32,6 +32,7 @@ export const NULL_TOKEN = '§';
 export const UNDEFINED_TOKEN = 'µ';
 export const BOOLEAN_TRUE_TOKEN = '»';
 export const BOOLEAN_FALSE_TOKEN = '«';
+export const DATAPOINT_TOKEN = Ð
 
 /**
  * String escape tokens
